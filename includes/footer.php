@@ -1,0 +1,1 @@
+</main><footer class="footer"><div>Public Grievance Portal · Secure local service</div><div><a href="<?= e(url('public/about.php')) ?>">About</a> · <a href="<?= e(url('public/how-it-works.php')) ?>">How it works</a> · <a href="<?= e(url('public/contact.php')) ?>">Contact</a> · <a href="<?= e(url('public/privacy.php')) ?>">Privacy</a></div></footer></body></html>

@@ -1,0 +1,1 @@
+<?php $pageTitle='About';require '../includes/header.php';?><section class="panel"><h1>About the portal</h1><p>This academic project demonstrates a local system for submitting public service grievances, recording department updates, and following resolution progress.</p></section><?php require '../includes/footer.php';?>

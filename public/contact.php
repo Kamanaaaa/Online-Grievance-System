@@ -1,0 +1,1 @@
+<?php $pageTitle='Contact';require '../includes/header.php';?><section class="panel"><h1>Contact</h1><p>This locally hosted academic demonstration has no external support desk configured. For project setup questions, contact the student project administrator.</p></section><?php require '../includes/footer.php';?>
